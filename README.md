@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --clean main2.py
